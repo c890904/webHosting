@@ -61,7 +61,7 @@ Support: http://trendytheme.net/support
         /* === CountDown === */
         if ($('.countdown').length > 0) {
             $(".countdown").countdown({
-                date: "27 june 2022 18:00:00",
+                date: "24 june 2022 18:00:00",
                 format: "on"
             });
         }
